@@ -4,7 +4,7 @@ The game is about reaching a visually relaxing destination. The name of my game 
 
 Player Changes:
 
-I changed the jump height value, from 5f to 3f.
+I changed the jump height value from 5f to 3f because I was trying to have less jump height.
 
 
 Links to assets:
